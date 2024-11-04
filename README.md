@@ -70,7 +70,7 @@ Some of the key technical features and best practices followed in this project:
 - **Git Workflow**: Proper use of branches and pull requests for feature development, with code reviews ensuring quality.
 
 ## Demo
-You can view a demo of the platform at `LINK_HERE`. The site allows you to browse and explore the content, but for security reasons, write permissions such as creating posts and commenting are restricted to prevent misuse.
+You can view a demo of the platform at (https://momd.turboot.com). The site allows you to browse and explore the content, but for security reasons, write permissions such as creating posts and commenting are restricted to prevent misuse.
 
 ## Local Installation Guide
 
