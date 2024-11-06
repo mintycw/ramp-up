@@ -43,10 +43,17 @@ We followed agile principles using **Scrum** methodology, breaking down tasks in
 
 ## Tech Stack
 This project utilized the following technologies:
-- **Frontend**: ReactJS, Tailwind CSS for responsive UI.
-- **Backend**: NodeJS with ExpressJS.
-- **Database**: MySQL, with Sequelize ORM for database management and querying.
-- **Authentication**: JWT-based for secure login and session handling.
+- **Frontend**:
+  - ReactJS
+  - Tailwind CSS for responsive UI
+  - Redux
+- **Backend**:
+  - NodeJS with ExpressJS.
+  - Sequelize ORM for database management and querying.
+- **Database**:
+  - MySQL was used during the development
+- **Authentication**:
+  - JWT-based for secure login and session handling.
 
 ## Features
 The platform includes the following core features:
