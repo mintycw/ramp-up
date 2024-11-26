@@ -1,6 +1,7 @@
-# Meer of Minder - Social Media Platform
+# Forked Meer of Minder - Social Media Platform
+This project is part of an 8-week introductory block at the University of Applied Sciences Utrecht, designed to bring all students up to speed. Our team developed Meer of Minder, a social media platform inspired by popular sites like X (formerly Twitter) and Reddit. The app’s name, meaning “Less or More” in Dutch, reflects our goal of a minimalist yet functional design.
 
-This project is a part of a school assignment where we developed our own version of a social media platform, inspired by popular platforms like X (formerly Twitter) and Reddit. Our app, **Meer of Minder**, translates to "Less or More" in Dutch, reflecting the minimalist yet functional approach we aimed to achieve.
+This repository is a fork created by - [Michael](https://github.com/mintycw) for adding finishing touches and further development. The original repository can be found [here](https://github.com/TamiELB/Rampup-Public).
 
 ## Table of Contents
 [Overview](#overview)
